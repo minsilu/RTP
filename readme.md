@@ -1,4 +1,4 @@
-# Video Streaming Application
+# Video Streaming Player
 
 ## 1. Environment Setup
 

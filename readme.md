@@ -13,7 +13,6 @@ opencv-python == 4.1.1.26
 
 ## 2. Launch Instructions
 
-Follow the steps below to start the server and client. Make sure to execute the following commands from their respective `src` directories.
 
 ### Starting the Server
 
